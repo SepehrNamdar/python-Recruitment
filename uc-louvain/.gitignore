@@ -1,0 +1,8 @@
+.idea/
+main/__pycache__/
+main/common/dto/__pycache__/
+main/use_case/__pycache__/
+main/exposition/__pycache__/
+main/model/__pycache__/
+main/model/course/exceptions/__pycache__/
+*.pyc

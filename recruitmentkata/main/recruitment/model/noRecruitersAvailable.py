@@ -1,0 +1,2 @@
+class NoRecruitersAvailable(RuntimeError):
+	pass
